@@ -1,4 +1,4 @@
-#day 12 of 100 day of code with Replit
+#day 12 of 100 days of code with Replit
 print("100 Days of Code QUIZ")
 print()
 print("How many can you answer correctly? ")
